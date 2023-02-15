@@ -103,7 +103,7 @@ Nuremberg (German: Nürnberg) is the second largest city in Bavaria, Germany. Th
 |#|Date|Time|Duration|Preview|
 |--- |--- |--- |--- |--- |
 |1|14.02.2023|19:04|14 Minute|![14.02.2023 NOAA-15](NOAA-15/14_02_2023_NOAA_15.jpg)|
-|2|-|-|-|-|
+|2|15.02.2023|18:30|18 Minute|![15.02.2023 NOAA-15](NOAA-15/15_02_2023_NOAA_15.jpg)|
 |3|-|-|-|-|
 |4|-|-|-|-|
 |5|-|-|-|-|
@@ -143,6 +143,7 @@ Nuremberg (German: Nürnberg) is the second largest city in Bavaria, Germany. Th
 |1|10.02.2023|22:04|15 Minute|NOAA-18|![10.02.2023 NOAA-18](NOAA-18/10_02_2023_NOAA_18.jpg)|
 |2|14.02.2023|19:04|14 Minute|NOAA-15|![14.02.2023 NOAA-15](NOAA-15/14_02_2023_NOAA_15.jpg)|
 |3|14.02.2023|20:15|15 Minute|NOAA-19|![14.02.2023 NOAA-19](NOAA-19/14_02_2023_NOAA_19.jpg)|
+|4|15.02.2023|18:30|18 Minute|NOAA-15|![15.02.2023 NOAA-15](NOAA-15/15_02_2023_NOAA_15.jpg)|
 |4|-|-|-|-|-|
 |5|-|-|-|-|-|
 </details>
