@@ -89,7 +89,11 @@ Nuremberg (German: Nürnberg) is the second largest city in Bavaria, Germany. Th
 * Keplers Data Updater <https://github.com/stefan-wr/keplers-updater-for-wxtoimg>
 * Virtual Audio Cable <https://vb-audio.com/Cable/>
 * WebSDR <http://nbgsdr.ddns.net/>
+* Airspy WebSDR <https://airspy.com/directory/>
 * N2YO <https://www.n2yo.com/>
+* DDE Tracker Plugin <https://www.satsignal.eu/software/DDETracker.html>
+* SDR-Sharp <https://airspy.com/download/>
+* Orbitron <https://www.stoff.pl/downloads.php>
 
 <p align="right">(<a href="#satellite-images-from-noaa-satellites">Back to top</a>)</p>
 
@@ -127,7 +131,7 @@ Nuremberg (German: Nürnberg) is the second largest city in Bavaria, Germany. Th
 |#|Date|Time|Duration|Preview|
 |--- |--- |--- |--- |--- |
 |1|14.02.2023|20:15|15 Minute|![14.02.2023 NOAA-19](NOAA-19/14_02_2023_NOAA_19.jpg)|
-|2|-|-|-|-|
+|2|16.02.2023|19:52|10 Minute|![16.02.2023 NOAA-19](NOAA-19/16_02_2023_NOAA_19.jpg)|
 |3|-|-|-|-|
 |4|-|-|-|-|
 |5|-|-|-|-|
@@ -144,8 +148,13 @@ Nuremberg (German: Nürnberg) is the second largest city in Bavaria, Germany. Th
 |2|14.02.2023|19:04|14 Minute|NOAA-15|![14.02.2023 NOAA-15](NOAA-15/14_02_2023_NOAA_15.jpg)|
 |3|14.02.2023|20:15|15 Minute|NOAA-19|![14.02.2023 NOAA-19](NOAA-19/14_02_2023_NOAA_19.jpg)|
 |4|15.02.2023|18:30|18 Minute|NOAA-15|![15.02.2023 NOAA-15](NOAA-15/15_02_2023_NOAA_15.jpg)|
-|4|-|-|-|-|-|
+|4|16.02.2023|19:52|10 Minute|NOAA-19|![16.02.2023 NOAA-19](NOAA-19/16_02_2023_NOAA_19.jpg)|
 |5|-|-|-|-|-|
+|6|-|-|-|-|-|
+|7|-|-|-|-|-|
+|8|-|-|-|-|-|
+|9|-|-|-|-|-|
+|10|-|-|-|-|-|
 </details>
 
 <p align="right">(<a href="#satellite-images-from-noaa-satellites">Back to top</a>)</p>
